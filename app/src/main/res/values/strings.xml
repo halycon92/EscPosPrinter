@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EscPosPrinter</string>
+    <string name="btnExecuteText">Execute</string>
+</resources>
